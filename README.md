@@ -27,7 +27,7 @@ Tap the bubble and Hum listens to whatever your PC is playing. That can be Spoti
 
 ## Privacy
 
-Only a short audio fingerprint is sent for recognition, never the sound itself. Your library never leaves your PC.
+Only a short audio fingerprint is sent for recognition, never the sound itself. Your library and Wrapped stay on your PC. To show covers, artist pages, lyrics and song links, Hum asks Deezer, LRCLIB and MusicBrainz about a song's title, artist or ID.
 
 ---
 
